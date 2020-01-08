@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EhugboTechnicalCollegeAfikpo</title>
+<meta charset="utf-8">
+<meta name="viewport" content="device=device-width,initial scale=1.0">
+
+<!----link goes here------>
+<link rel="stylesheet" href="tech.css" media="all" type="text/css">
+<link rel="shortcut icon" href="../file/slogo.jpg">
+<head>
+
+<body>
+
+<!--header content------->
+
+<table width="100%" border="0" id="header_table">
+<tr>
+<td>
+nav
+</td>
+   <td align="center">
+     <img src="..\file/slogo.jpg" id="school_logo">
+</td>
+    <td align="center">
+        <font class="school_name">Ehugbo Technical College Afikpo</font>
+    </td>
+	
+<td align="right">
+<ul class="list">
+<li>Home</li>
+  <li>Sign in</li>
+  <li>Result-Checker</li>
+  <li>About Us</li>
+  <li>Contact Us</li>
+</ul>
+</td>
+
+</tr>
+</table>
+
+
+<!---header content ends here------>
+
+
+<!-----------header media content------->
+<div class="media_header_div">
+
+<div class="nav_bar">Nav</div>
+
+<img src="..\file/slogo.jpg" id="school_logo">
+<br>
+<font class="school_name">Ehugbo Technical College Afikpo</font>
+
+</div>
+
+<!---header media div ends here------>
+
+
+
+<!----body content starts here--------->
+
+<div class="body_div">
+
+<!--slide images---->
+<img src="../file/fg.jpg" id="background_image">
+
+<div class="cover">
+
+<div class="content_div">
+<font class="head_text"><h1>welcome to ehugbo technical college afikpo</h1></font>
+<br>
+
+<p class="content_p">
+We are Ehugbo Technical College the student's choice think of<br>
+technicality we do them future Engineers and technicain are made here....<br>
+
+
+</p>
+</div>
+
+ </div>
+ 
+</div>
+
+
+<!----------Departments------------------>
+
+
+<div class="department">
+
+<div class="department_header">
+<font class="department_text">our Departments</font>
+</div>
+
+
+<div class="department_classes">
+
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Electrical</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Mechanical</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Building</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Capentry</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">fabrication</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+</div>
+
+
+
+</div>
+
+
+
+
+<!-----description----------->
+<div class="school_description">
+
+
+<div class="description_content">
+
+<div class="description_header">
+<font class="description_text">our school</font>
+</div>
+
+
+<div class="descript_text_div">
+
+<p>Ehugbo technical college is a technical secondary school, 
+a base for student who want to become good engineers in the nearest time to come <br>
+
+<h4>Our classes include</h4>
+
+<ul class="classes">
+  <h4>Junior classes</h4>
+  <li>Jsss1-Jss3</li>
+  
+  <h4>Departments For senior classes</h4>
+  <li>Electrical Department</li>
+  <li>Mechanical Department</li>
+  <li>Building Department</li>
+  <li>Capentry and Joinery</li>
+  <li>Mechanical and fabrication</li>
+  
+ </ul>
+
+
+<h3>Student's Requirement</h3>
+
+Here are some essential requirement to become one of us<br>
+
+<h4>Junior classes Requirement JSS1</h4>
+
+<ul class="classes">
+  <li>Testimonial Cerificate</li>
+  <li>First leaveing Cerficate</li>
+  </ul>
+  
+  <h4>Requirement For senior classes</h4>
+  
+<ul class="classes">
+  <li>Statement of JSCE result</li>
+  <li>School Transfer Certificate</li>
+ </ul>
+<h4>NB:</h4>Only student who wish to start from SSS1 are accepted due to our circulum
+
+</p>
+</div>
+
+
+</div>
+
+
+
+
+
+<div class="description_content item_news">
+
+<div class="description_header">
+<font class="description_text">News Update</font>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+<!----vectors contents------------->
+
+<div class="vectors">
+
+<div class="vector_header">
+<font class="vector_text">why you should join us</font>
+</div>
+
+
+<div class="vector_classes">
+
+<div class="vectors_content item1">
+<div class="vector_content_header">
+<font class="vector_content_header_text">learn</font>
+</div>
+
+<img src="../file/pro1.png"  class="vector_image">
+</div>
+
+<div class="vectors_content item2">
+<div class="vector_content_header">
+<font class="vector_content_header_text">practice</font>
+</div>
+
+<img src="../file/pro2.jpg"  class="vector_image">
+</div>
+
+
+<div class="vectors_content item3">
+<div class="vector_content_header">
+<font class="vector_content_header_text">grow</font>
+</div>
+
+<img src="../file/pro3.jpg" class="vector_image">
+</div>
+
+
+</div>
+</div>
+
+
+<!--------contact contents---------->
+
+<div class="contact_div">
+
+
+
+<div class="contact_content">
+
+<font class="contact_content_text">about us</font>
+
+<p>
+<h4>Address</h4>
+No 24 Ndibe Beach Road Afikpo
+
+<h4>State</h4>
+Ebonyi State Afikpo North LGA
+<h4>Contact</h4>
+
+<p>Email:<a href="mailto:ehugbotech@gmail.com">ehugbotech@gmail.com</a></p>
+
+<p>Phone:<a href="tel:+2348122656972">+2348122656972</a>
+<br>
+<br>
+<br>
+<a href="tel:+2348122656972">+2347034356971</a>
+</p>
+
+</p>
+
+</div>
+
+
+<div class="contact_content">
+<font class="contact_content_text">quick links</font>
+
+<p><a href="terminal_resultchecker.php">Terminal Result-Checker</a></p>
+<p>Student Forum</p>
+<p>Requirement</p>
+<p>Departments</p>
+
+
+</div>
+
+
+<div class="contact_content">
+<font class="contact_content_text">Social</font>
+
+<p>Facebook</p>
+<p>Instagram</p>
+<p>Youtube</p>
+
+<!-----form for sending message------->
+<form action="" method="post">
+
+<table align="center" width="100%" border="0">
+<caption>Send Us A Message</caption>
+
+<tr align="center">
+<td>
+<input type="search" id="m_input" placeholder="Enter Your Name" required>
+</td>
+</tr>
+
+<tr align="center" >
+<td>
+<input type="email" id="m_input" placeholder="Enter Your Email" required>
+</td>
+</tr>
+
+<tr align="center" >
+<td>
+<input type="number" id="m_input" placeholder="Enter Your Phone Number" required>
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<textarea placeholder="Please Enter Your Message" class="txar" required></textarea>
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<input type="submit" value="Submit" id="submit_button">
+</td>
+</tr>
+
+</table>
+
+</form>
+
+</p>
+</div>
+
+
+
+
+</div>
+
+<div class="footer2">
+
+<font class="foot_font"> Ehugbo Technical College  &copy<?php echo date("Y");?> All Right Reserved </font>
+</div>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<title>EhugboTechnicalCollegeAfikpo</title>
+<meta charset="utf-8">
+<meta name="viewport" content="device=device-width,initial scale=1.0">
+
+<!----link goes here------>
+<link rel="stylesheet" href="tech.css" media="all" type="text/css">
+<link rel="shortcut icon" href="../file/slogo.jpg">
+<head>
+
+<body>
+
+<!--header content------->
+
+<table width="100%" border="0" id="header_table">
+<tr>
+<td>
+nav
+</td>
+   <td align="center">
+     <img src="..\file/slogo.jpg" id="school_logo">
+</td>
+    <td align="center">
+        <font class="school_name">Ehugbo Technical College Afikpo</font>
+    </td>
+	
+<td align="right">
+<ul class="list">
+<li>Home</li>
+  <li>Sign in</li>
+  <li>Result-Checker</li>
+  <li>About Us</li>
+  <li>Contact Us</li>
+</ul>
+</td>
+
+</tr>
+</table>
+
+
+<!---header content ends here------>
+
+
+<!-----------header media content------->
+<div class="media_header_div">
+
+<div class="nav_bar">Nav</div>
+
+<img src="..\file/slogo.jpg" id="school_logo">
+<br>
+<font class="school_name">Ehugbo Technical College Afikpo</font>
+
+</div>
+
+<!---header media div ends here------>
+
+
+
+<!----body content starts here--------->
+
+<div class="body_div">
+
+<!--slide images---->
+<img src="../file/fg.jpg" id="background_image">
+
+<div class="cover">
+
+<div class="content_div">
+<font class="head_text"><h1>welcome to ehugbo technical college afikpo</h1></font>
+<br>
+
+<p class="content_p">
+We are Ehugbo Technical College the student's choice think of<br>
+technicality we do them future Engineers and technicain are made here....<br>
+
+
+</p>
+</div>
+
+ </div>
+ 
+</div>
+
+
+<!----------Departments------------------>
+
+
+<div class="department">
+
+<div class="department_header">
+<font class="department_text">our Departments</font>
+</div>
+
+
+<div class="department_classes">
+
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Electrical</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Mechanical</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Building</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">Capentry</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+<div class="department_class">
+<div class="department_class_header">
+<font class="department_text_name">fabrication</font>
+</div>
+
+<img src="../file/dep.jpg">
+</div>
+
+</div>
+
+
+
+</div>
+
+
+
+
+<!-----description----------->
+<div class="school_description">
+
+
+<div class="description_content">
+
+<div class="description_header">
+<font class="description_text">our school</font>
+</div>
+
+
+<div class="descript_text_div">
+
+<p>Ehugbo technical college is a technical secondary school, 
+a base for student who want to become good engineers in the nearest time to come <br>
+
+<h4>Our classes include</h4>
+
+<ul class="classes">
+  <h4>Junior classes</h4>
+  <li>Jsss1-Jss3</li>
+  
+  <h4>Departments For senior classes</h4>
+  <li>Electrical Department</li>
+  <li>Mechanical Department</li>
+  <li>Building Department</li>
+  <li>Capentry and Joinery</li>
+  <li>Mechanical and fabrication</li>
+  
+ </ul>
+
+
+<h3>Student's Requirement</h3>
+
+Here are some essential requirement to become one of us<br>
+
+<h4>Junior classes Requirement JSS1</h4>
+
+<ul class="classes">
+  <li>Testimonial Cerificate</li>
+  <li>First leaveing Cerficate</li>
+  </ul>
+  
+  <h4>Requirement For senior classes</h4>
+  
+<ul class="classes">
+  <li>Statement of JSCE result</li>
+  <li>School Transfer Certificate</li>
+ </ul>
+<h4>NB:</h4>Only student who wish to start from SSS1 are accepted due to our circulum
+
+</p>
+</div>
+
+
+</div>
+
+
+
+
+
+<div class="description_content item_news">
+
+<div class="description_header">
+<font class="description_text">News Update</font>
+</div>
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+<!----vectors contents------------->
+
+<div class="vectors">
+
+<div class="vector_header">
+<font class="vector_text">why you should join us</font>
+</div>
+
+
+<div class="vector_classes">
+
+<div class="vectors_content item1">
+<div class="vector_content_header">
+<font class="vector_content_header_text">learn</font>
+</div>
+
+<img src="../file/pro1.png"  class="vector_image">
+</div>
+
+<div class="vectors_content item2">
+<div class="vector_content_header">
+<font class="vector_content_header_text">practice</font>
+</div>
+
+<img src="../file/pro2.jpg"  class="vector_image">
+</div>
+
+
+<div class="vectors_content item3">
+<div class="vector_content_header">
+<font class="vector_content_header_text">grow</font>
+</div>
+
+<img src="../file/pro3.jpg" class="vector_image">
+</div>
+
+
+</div>
+</div>
+
+
+<!--------contact contents---------->
+
+<div class="contact_div">
+
+
+
+<div class="contact_content">
+
+<font class="contact_content_text">about us</font>
+
+<p>
+<h4>Address</h4>
+No 24 Ndibe Beach Road Afikpo
+
+<h4>State</h4>
+Ebonyi State Afikpo North LGA
+<h4>Contact</h4>
+
+<p>Email:<a href="mailto:ehugbotech@gmail.com">ehugbotech@gmail.com</a></p>
+
+<p>Phone:<a href="tel:+2348122656972">+2348122656972</a>
+<br>
+<br>
+<br>
+<a href="tel:+2348122656972">+2347034356971</a>
+</p>
+
+</p>
+
+</div>
+
+
+<div class="contact_content">
+<font class="contact_content_text">quick links</font>
+
+<p><a href="terminal_resultchecker.php">Terminal Result-Checker</a></p>
+<p>Student Forum</p>
+<p>Requirement</p>
+<p>Departments</p>
+
+
+</div>
+
+
+<div class="contact_content">
+<font class="contact_content_text">Social</font>
+
+<p>Facebook</p>
+<p>Instagram</p>
+<p>Youtube</p>
+
+<!-----form for sending message------->
+<form action="" method="post">
+
+<table align="center" width="100%" border="0">
+<caption>Send Us A Message</caption>
+
+<tr align="center">
+<td>
+<input type="search" id="m_input" placeholder="Enter Your Name" required>
+</td>
+</tr>
+
+<tr align="center" >
+<td>
+<input type="email" id="m_input" placeholder="Enter Your Email" required>
+</td>
+</tr>
+
+<tr align="center" >
+<td>
+<input type="number" id="m_input" placeholder="Enter Your Phone Number" required>
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<textarea placeholder="Please Enter Your Message" class="txar" required></textarea>
+</td>
+</tr>
+
+<tr align="center">
+<td>
+<input type="submit" value="Submit" id="submit_button">
+</td>
+</tr>
+
+</table>
+
+</form>
+
+</p>
+</div>
+
+
+
+
+</div>
+
+<div class="footer2">
+
+<font class="foot_font"> Ehugbo Technical College  &copy<?php echo date("Y");?> All Right Reserved </font>
+</div>
+
+</body>
+</html>
